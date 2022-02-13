@@ -17,6 +17,11 @@ que también trata de lo mismo, pero usamos técnicas distintas, en mi caso evit
 
 En el directorio "/fotos": alguna foto del proyecto y cacharreo vario en el que he utilizado este circuito. 
 
+.- "Seguimiento_v2.1.ino", se modifica el valor en microsegundos de los 8800 teóricos a 8600 obtenidos de manera empírica, cronómetro en mano, para que 1 vuelta completa de 2040 pasos sea 12 minutos exactos, es decir 5 vueltas a la hora que corresponde a la montura utilizada con 120 dientes en la corona de AR.
+
+
+
+
 
 
 
